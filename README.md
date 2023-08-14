@@ -1,16 +1,10 @@
-# resume_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-08-14-19-00-47-76_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/99221b37-9458-4297-a355-f964d2e8f615)
+![Screenshot_2023-08-14-19-00-36-70_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/d13d7edd-faa0-475e-9dc8-11ef84a7b1da)
+![Screenshot_2023-08-14-19-00-40-49_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/5e073944-7829-4ae3-ae79-83e2fbec2cef)
+![Screenshot_2023-08-14-19-01-30-19_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/2f2752b6-5c6d-458d-a6c7-8615f8f8368e)
+![Screenshot_2023-08-14-19-01-17-30_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/36bf2a5e-17f5-458e-ae3c-2b5d328d7502)
+![Screenshot_2023-08-14-19-01-30-19_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/8e5b65dd-98fc-4cbf-9164-ef9c37415f10)
+![Screenshot_2023-08-14-19-01-09-17_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/562d7036-f67b-49ef-ab07-589e239bcc77)
+![Screenshot_2023-08-14-19-01-00-60_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/5bd64aa8-4254-4c57-b0ea-0caa0293f314)
+![Screenshot_2023-08-14-19-00-57-01_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/0d6c5e77-8b45-42fb-b830-8874ab092f00)
+![Screenshot_2023-08-14-19-00-47-76_90999d88b3e6a8c3349f3092868f5d09 1](https://github.com/umangtakoliya/resume_app/assets/138286678/70506ad0-1d74-4172-adec-d8586353be22)
